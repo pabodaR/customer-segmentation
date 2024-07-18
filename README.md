@@ -34,9 +34,9 @@ Customer segmentation involves dividing customers into groups based on similarit
 - Iteratively assigning data points to clusters and updating centroids until convergence
 
 ## Results
-- 5 groups of customers were identified:
-    1.   **Light blue** - low income and low spending score  
-    2.   **Dark blue** - high income and low spending score  
-    3.   **Purple** - medium income and medium spending score  
-    4.   **Green** - low income and high spending score  
-    5.   **Yellow** - high income and high spending score  
+- 5 groups of customers were identified based on their annual income and spending score.
+    1.   low income and low spending score  
+    2.   high income and low spending score  
+    3.   medium income and medium spending score  
+    4.   low income and high spending score  
+    5.   high income and high spending score  
